@@ -1,0 +1,37 @@
+{
+  "name": "api",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "test:unit": "vitest run --project unit",
+    "test:integration": "vitest run --project integration"
+  },
+  "dependencies": {
+    "@autana/contracts": "*",
+    "@autana/database": "*",
+    "@better-auth/drizzle-adapter": "^1.7.27",
+    "@hono/node-server": "^2.1.9",
+    "@hono/zod-openapi": "^1.6.3",
+    "@scalar/hono-api-reference": "^0.12.24",
+    "better-auth": "^1.7.27",
+    "drizzle-orm": "^0.45.4",
+    "hono": "^4.13.19",
+    "hono-rate-limiter": "^0.5.4",
+    "pg": "^8.23.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@autana/oxlint-config": "*",
+    "@hono/vite-dev-server": "^0.26.1",
+    "@types/node": "^26.1.1",
+    "@types/pg": "^8.23.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.1"
+  }
+}
