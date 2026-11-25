@@ -54,7 +54,7 @@ const api = app.basePath(apiBasePath)
 if (process.env.NODE_ENV === "development") {
   api.doc31("/openapi.json", {
     openapi: "3.1.0",
-    info: { title: "Autana Full Stack Starter API", version: "0.0.1" },
+    info: { title: "Autana Hono Full Stack Starter API", version: "0.0.1" },
   })
   api.get("/docs", Scalar({ url: `${apiBasePath}/openapi.json` }))
 }

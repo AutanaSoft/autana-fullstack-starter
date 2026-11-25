@@ -2,7 +2,7 @@
 
 <img src="docs/assets/autanasoft.png" alt="AutanaSoft" width="320" />
 
-<h1>Autana Full Stack Starter</h1>
+<h1>Autana Hono Full Stack Starter</h1>
 
 <p>Base mínima y tipada para iniciar tu próxima aplicación full stack.</p>
 
@@ -12,6 +12,9 @@
 ![PostgreSQL 18+](https://img.shields.io/badge/PostgreSQL-18%2B-4169E1?logo=postgresql&logoColor=white)
 
 </div>
+
+Esta es la variante con Hono. Si prefieres NestJS, usa
+[Autana Nest Full Stack Starter](https://github.com/AutanaSoft/autana-nest-fullstack-starter).
 
 ## Qué incluye
 

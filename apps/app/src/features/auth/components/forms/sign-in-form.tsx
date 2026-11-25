@@ -28,7 +28,7 @@ export function SignInForm({ onSubmit }: SignInFormProps) {
     <Card>
       <CardHeader className="text-center">
         <CardTitle className="text-xl">Inicia sesión</CardTitle>
-        <CardDescription>Accede a tu cuenta de Autana Full Stack Starter</CardDescription>
+        <CardDescription>Accede a tu cuenta de Autana Hono Full Stack Starter</CardDescription>
       </CardHeader>
       <CardContent>
         <form

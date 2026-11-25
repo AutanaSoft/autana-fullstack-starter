@@ -1,5 +1,5 @@
 {
-  "name": "autana-fullstack-starter",
+  "name": "autana-hono-fullstack-starter",
   "version": "0.0.1",
   "private": true,
   "description": "Base mínima full stack (API con Hono, frontend con React y PostgreSQL) para iniciar nuevos proyectos.",
@@ -15,13 +15,13 @@
     "postgresql",
     "typescript"
   ],
-  "homepage": "https://github.com/AutanaSoft/autana-fullstack-starter#readme",
+  "homepage": "https://github.com/AutanaSoft/autana-hono-fullstack-starter#readme",
   "bugs": {
-    "url": "https://github.com/AutanaSoft/autana-fullstack-starter/issues"
+    "url": "https://github.com/AutanaSoft/autana-hono-fullstack-starter/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AutanaSoft/autana-fullstack-starter.git"
+    "url": "git+https://github.com/AutanaSoft/autana-hono-fullstack-starter.git"
   },
   "license": "MIT",
   "author": {

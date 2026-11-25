@@ -29,7 +29,7 @@ export function SignUpForm({ onSubmit }: SignUpFormProps) {
     <Card>
       <CardHeader className="text-center">
         <CardTitle className="text-xl">Crea tu cuenta</CardTitle>
-        <CardDescription>Regístrate en Autana Full Stack Starter</CardDescription>
+        <CardDescription>Regístrate en Autana Hono Full Stack Starter</CardDescription>
       </CardHeader>
       <CardContent>
         <form
