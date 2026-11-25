@@ -3,7 +3,7 @@
 ## Cómo reportar una vulnerabilidad
 
 No abras un issue público para reportar una vulnerabilidad. Usa el
-[reporte privado de vulnerabilidades de GitHub](https://github.com/AutanaSoft/autana-fullstack-starter/security/advisories/new)
+[reporte privado de vulnerabilidades de GitHub](https://github.com/AutanaSoft/autana-hono-fullstack-starter/security/advisories/new)
 desde la pestaña **Security** del repositorio.
 
 Incluye una descripción del problema, los pasos para reproducirlo y su posible impacto.
